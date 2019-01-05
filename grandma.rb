@@ -2,7 +2,10 @@ speak_to_grandma(phrase)
 phrase = "hi!"
 if phrase == "how are you?"
   puts "HUH?! SPEAK UP, SONNY!"
-  elsif phrase == "what did you eat today?"
+  elsif phrase == "what did you eat today?".upcase
+  puts "NO, NOT SINCE 1938!"
+end
+
 
 # Write a speak_to_grandma method.
 
