@@ -1,4 +1,4 @@
-phrase = "hi"
+
 
 def speak_to_grandma(phrase)
   
