@@ -3,7 +3,7 @@ def speak_to_grandma(phrase)
   
   phrase = "hi!"
   
-  if phrase == "WHAT DID YOU EAT TODAY?".upcase
+  if phrase == "hi".upcase
   puts "NO, NOT SINCE 1938!"
   
   elsif phrase == "Hi Nana, how are you?"
@@ -17,7 +17,7 @@ def speak_to_grandma(phrase)
 
 end
 
-
+speak_to_grandma("HI")
 
 end
 
