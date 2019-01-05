@@ -1,8 +1,6 @@
 
 def speak_to_grandma(phrase)
   
-  phrase = "hi!"
-  
   if phrase == "hi".upcase
   puts "NO, NOT SINCE 1938!"
   
@@ -17,7 +15,6 @@ def speak_to_grandma(phrase)
 
 end
 
-speak_to_grandma("HI")
 
 end
 
