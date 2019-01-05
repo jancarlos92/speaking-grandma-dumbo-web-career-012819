@@ -1,4 +1,3 @@
-phrase = gets.chomp 
 
 def speak_to_grandma(phrase)
   
